@@ -1,0 +1,41 @@
+.portfolio{
+    margin: 2em 0;
+    position:relative;
+    
+}
+.team{
+    margin: 4em 0;
+    position: relative;
+    width: 900px;
+  margin-left: 450px;
+}
+.team h1{
+    margin: 2em;
+}
+.team .item{
+position: relative;
+}
+.team .des{
+    background:#fff;
+    color:#fff;
+    text-align: center;
+    
+}
+ .item:hover .des{
+    height: 100%;
+    background:#f973007d;
+    position: absolute;
+    width: 89%;
+    padding: 5em;
+    top: 0;
+    border-bottom:3px solid white;   
+}
+.jumbotron{
+    background-image: url("file:///home/wecode/Documents/moringa-school-projects/Delani-Studio/images/h_img.jpg");
+    background-size: cover;
+    
+}
+.card{
+    justify-content: space-around;
+    top: 5;
+}
