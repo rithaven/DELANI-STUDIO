@@ -4,38 +4,116 @@
     
 }
 .team{
-    margin: 4em 0;
-    position: relative;
-    width: 900px;
-  margin-left: 450px;
+    margin: 0 20em 0  ;
+    position:relative;
 }
+
 .team h1{
     margin: 2em;
 }
 .team .item{
 position: relative;
 }
+.mouse{
+    padding-bottom: 1px;
+    padding-top: 150px;
+}
+.about{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.social{
+    text-align: center;
+}
+.big{
+    font-size: 10px;
+}
 .team .des{
     background:#fff;
     color:#fff;
+    text-align: center;   
+}
+.cont1{
     text-align: center;
-    
+    padding-top: 20px;
+
+}
+.cont1 h1{
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
  .item:hover .des{
     height: 100%;
-    background:#f973007d;
+    background:#f0ebe77d;
     position: absolute;
     width: 89%;
     padding: 5em;
     top: 0;
     border-bottom:3px solid white;   
 }
-.jumbotron{
+.firstup{
     background-image: url("file:///home/wecode/Documents/moringa-school-projects/Delani-Studio/images/h_img.jpg");
-    background-size: cover;
+    text-align: center;
+    color: #fff;
+    background-repeat: no-repeat;
+   padding:380px 50px 50px 190px;
+}
+.firstup p{
+    font-size: 10px;
+}
+h1{
+    text-align: center;
+}
+.mmm{
+    background-image: url("file:///home/wecode/Documents/moringa-school-projects/Delani-Studio/images/s_image.jpg");
+    text-align: center;
+    color: #fff;
+    padding-top: 130px;
+    padding-bottom: 100px;
+   background-repeat: no-repeat;
     
 }
-.card{
-    justify-content: space-around;
-    top: 5;
+.nn{
+ text-align: left
 }
+.pp{
+    text-align: center
+}
+.KK{
+   text-align: right;
+}
+.cardt{
+    background-image: url("file:///home/wecode/Documents/moringa-school-projects/Delani-Studio/images/c_image.jpg");
+    text-align: center;
+    color: #fff;
+    padding: 50px;
+}
+.name{
+   background: transparent;
+   color: #fff;
+   width: 30%;
+  top: 10px;
+  bottom: 10px;
+   
+}
+.emai{
+    background: transparent;
+    width: 30%;
+    color: #fff;
+    top: 10px;
+    bottom: 10px;
+}
+.messa{
+    padding: 10px;
+    background: transparent;
+    color: #fff;
+    width: 50%;
+   
+    top: 10px;
+    bottom: 10px;
+}
+::placeholder{
+    color: white;
+}
+ 
