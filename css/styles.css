@@ -36,7 +36,8 @@ position: relative;
 .team .des{
     background:#fff;
     color:#fff;
-    text-align: center;   
+    text-align: left;  
+    
 }
 .cont1{
     text-align: center;
@@ -48,10 +49,10 @@ position: relative;
     padding-top: 20px;
 }
  .item:hover .des{
-    height: 100%;
-    background:#f0ebe77d;
+    height: 90%;
+    background:#0703007d;
     position: absolute;
-    width: 89%;
+    width: 90%;
     padding: 5em;
     top: 0;
  }
