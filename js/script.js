@@ -25,3 +25,27 @@ $(document).ready(function(){
         $("#hideme").fadeOut()
     });
 });
+$(document).ready(function(){
+    $("#toggle_tst1").click(function(){
+        $("#hideme1").toggle()
+        $("#toggle_tst1").fadeOut()
+    });
+});
+$(document).ready(function(){
+    $("#hideme1").click(function(){
+        $("#toggle_tst1").toggle()
+        $("#hideme1").fadeOut()
+    });
+});
+$(document).ready(function(){
+    $("#toggle_tst2").click(function(){
+        $("#hideme2").toggle()
+        $("#toggle_tst2").fadeOut()
+    });
+});
+$(document).ready(function(){
+    $("#hideme2").click(function(){
+        $("#toggle_tst2").toggle()
+        $("#hideme2").fadeOut()
+    });
+});
