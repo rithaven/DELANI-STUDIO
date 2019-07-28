@@ -24,4 +24,26 @@ $("#Submit").click(function(event){
         $(".one").toggle();
         $(".hideme").fadeOut();
     });
+
+$(".two").click(function(){
+    $(".hideme1").toggle();
+    $(".two").fadeOut();
 });
+
+
+$(".hideme1").click(function(){
+    $(".two").toggle();
+    $(".hideme1").fadeOut();
+});
+$(".three").click(function(){
+    $(".hideme2").toggle();
+    $(".three").fadeOut();
+});
+
+
+$(".hideme3").click(function(){
+    $(".three").toggle();
+    $(".hideme3").fadeOut();
+});
+});
+
