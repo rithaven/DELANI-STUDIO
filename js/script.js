@@ -1,12 +1,15 @@
-$("#Submit").click(function(load){
-    var name=$("#name").val()
-    var email=$("#email").val()
-    var email=$("#message").val();
-    if((name!=="")||(email!==)||(message!=="")){
-        alert(name+"we have received your message.Thank you for reaching out to us.");
+$(document).ready(function(){
+$("#Submit").click(function(event){
+    var name=$("#name").val();
+    var email=$("#emai").val();
+    var message=$("#messa").val();
+    if((name==="")||(email==="")||(message==="")){
+        alert("Please,Fill the form");
     
     }
     else{
-        alert("fill the form!")
+        alert(name+"we have received your message.Thank you for reaching out to us.");
     }
-}
+    event.preventDefault();
+});
+});
