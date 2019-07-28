@@ -1,3 +1,6 @@
+body{
+    font-style: Roboto;
+}
 .portfolio{
     margin: 2em 0;
     position:relative;
@@ -10,6 +13,7 @@
 
 .team h1{
     margin: 2em;
+    padding-top: 40px;
 }
 .team .item{
 position: relative;
@@ -116,4 +120,5 @@ h1{
 ::placeholder{
     color: white;
 }
+
  
