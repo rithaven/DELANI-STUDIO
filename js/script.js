@@ -12,40 +12,16 @@ $("#Submit").click(function(event){
     }
     event.preventDefault();
 });
-});
-$(document).ready(function(){
-    $("#toggle_tst").click(function(){
-        $("#hideme").toggle()
-        $("#toggle_tst").fadeOut()
+
+
+    $(".one").click(function(){
+        $(".hideme").toggle();
+        $(".one").fadeOut();
     });
-});
-$(document).ready(function(){
-    $("#hideme").click(function(){
-        $("#toggle_tst").toggle()
-        $("#hideme").fadeOut()
-    });
-});
-$(document).ready(function(){
-    $("#toggle_tst1").click(function(){
-        $("#hideme1").toggle()
-        $("#toggle_tst1").fadeOut()
-    });
-});
-$(document).ready(function(){
-    $("#hideme1").click(function(){
-        $("#toggle_tst1").toggle()
-        $("#hideme1").fadeOut()
-    });
-});
-$(document).ready(function(){
-    $("#toggle_tst2").click(function(){
-        $("#hideme2").toggle()
-        $("#toggle_tst2").fadeOut()
-    });
-});
-$(document).ready(function(){
-    $("#hideme2").click(function(){
-        $("#toggle_tst2").toggle()
-        $("#hideme2").fadeOut()
+
+
+    $(".hideme").click(function(){
+        $(".one").toggle();
+        $(".hideme").fadeOut();
     });
 });
