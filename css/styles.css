@@ -122,12 +122,21 @@ h1{
 }
 .hideme{
     display: none;
+    padding-bottom: 30px;
 }.hideme1{
     display: none;
+    padding-bottom: 30px;
 }
 .hideme2{
     display: none;
+    padding-bottom: 30px;
 }
+.toggle_tst{
+    padding-bottom: 30px;
+}
+}
+
+
 
  
  

@@ -41,9 +41,9 @@ $(".three").click(function(){
 });
 
 
-$(".hideme3").click(function(){
+$(".hideme2").click(function(){
     $(".three").toggle();
-    $(".hideme3").fadeOut();
+    $(".hideme2").fadeOut();
 });
 });
 
