@@ -13,3 +13,15 @@ $("#Submit").click(function(event){
     event.preventDefault();
 });
 });
+$(document).ready(function(){
+    $("#toggle_tst").click(function(){
+        $("#hideme").toggle()
+        $("#toggle_tst").fadeOut()
+    });
+});
+$(document).ready(function(){
+    $("#hideme").click(function(){
+        $("#toggle_tst").toggle()
+        $("#hideme").fadeOut()
+    });
+});
