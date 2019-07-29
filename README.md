@@ -20,7 +20,7 @@ on Delani stidio website you can find more information and add your comment on b
 * Write Email
 * wite message in text area
 * Then click on send button
-####Then output will be** 
+#### Then output will be
 * alert messaage. if you don't fill the form properly, the message remind you within alert
 ## SUPPORT AND CONTACT DETAILS
 Form more information contact us (+250) 787412101
