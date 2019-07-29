@@ -50,7 +50,7 @@ position: relative;
      
  }
 .firstup{
-    background-image: url("file:///home/wecode/Documents/moringa-school-projects/Delani-Studio/images/h_img.jpg");
+    background-image: url("../images/h_img.jpg");
     text-align: center;
     color: #fff;
     background-repeat: no-repeat;
