@@ -21,7 +21,7 @@ on Delani stidio website you can find more information and add your comment on b
 * wite message in text area
 * Then click on send button
 #### Then output will be
-* alert messaage. if you don't fill the form properly, the message remind you within alert
+* Alert messaage. if you don't fill the form properly, the message remind you within alert
 ## SUPPORT AND CONTACT DETAILS
 Form more information contact us (+250) 787412101
 ## License
