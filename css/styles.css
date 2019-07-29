@@ -6,10 +6,10 @@ body{
     position:relative;
     
 }
-.team{
+ .team{
     margin: 0 20em 0  ;
     position:relative;
-}
+} 
 
 .team h1{
     margin: 2em;
@@ -17,7 +17,8 @@ body{
 }
 .team .item{
 position: relative;
-}
+}  
+
 .mouse{
     padding-bottom: 1px;
     padding-top: 150px;
@@ -33,12 +34,7 @@ position: relative;
 .big{
     font-size: 10px;
 }
-.team .des{
-    background:#fff;
-    color:#fff;
-    text-align: left;  
-    
-}
+ 
 .cont1{
     text-align: center;
     padding-top: 20px;
@@ -48,13 +44,10 @@ position: relative;
     padding-bottom: 20px;
     padding-top: 20px;
 }
- .item:hover .des{
-    height: 90%;
-    background:#0703007d;
-    position: absolute;
-    width: 90%;
-    padding: 5em;
-    top: 0;
+ 
+ .projects{
+     color:#fff;
+     
  }
 .firstup{
     background-image: url("file:///home/wecode/Documents/moringa-school-projects/Delani-Studio/images/h_img.jpg");
@@ -137,7 +130,14 @@ h1{
 .card-text{
     font-style: bold;
 }
-
+.des{
+    color: rgb(8, 8, 8);
+    font-size: 30px;
+     margin-top: -120px; 
+    position: relative;
+     display: none; 
+     font-weight: bold;
+} 
 
  
  
