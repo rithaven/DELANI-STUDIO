@@ -63,7 +63,7 @@ h1{
     text-align: center;
 }
 .mmm{
-    background-image: url("file:///home/wecode/Documents/moringa-school-projects/Delani-Studio/images/s_image.jpg");
+    background-image: url("../images/s_image.jpg");
     text-align: center;
     color: #fff;
     padding-top: 130px;
