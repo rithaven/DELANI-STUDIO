@@ -10,22 +10,19 @@ on Delani stidio website you can find more information and add your comment on b
 * the cloned project must be saved in documents
 * it can be easy for you if you have ubuntu into your machine
 * Edit project clearly
-## live site: https://rithaven.github.io/Akan-Name/
+## live site:
+ https://rithaven.github.io/DELANI-STUDIO/
+ ## TECHNOLOGIES USED
+ **DELANI-STIDO was created using HTML,CSS and JAVASCRIPT**
 ## BDD
-**Input birth date** 
-* birth date must be a number 
- * **Then input month on which you were born on** 
-* month also must be a number
-* **input the year on which you were born** 
-* year must be greater than zero(0)
-* **Choose your gender** 
-* **then** click submit 
-* **According to** 
-* the input you've inserted
-* **The output will be** 
-* a day of week on which you were born **And** 
-* the Akan Name much with your and gender
-* **input example:** Birthdate: 10
-* **Month:10**
-* **year :1994**
-* **gender: female**
+**Input** 
+* Write your Name
+* Write Email
+* wite message in text area
+* Then click on send button
+* **Then output will be** 
+* alert messaage. if you don't fill the form properly, the message remind you within alert
+## SUPPORT AND CONTACT DETAILS
+Form more information contact us (+250) 787412101
+## License
+**This application is licensed by MIT copy right (c) KANKINDI Ritha**
