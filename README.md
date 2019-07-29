@@ -1,5 +1,5 @@
 # DELANI-STIDIO website
-#### This is a website discribes information about Delani-stiod.
+#### This is a website gives information about Delani-stiod and allow you leave comment on the website
 #### By **KANKINDI RITHA VENERANDA** on 2019-07-28
 ## Description
 ### Delani studio
